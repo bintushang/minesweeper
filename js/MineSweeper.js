@@ -32,7 +32,7 @@ jQuery(function ($) {
     beginner: {
       boardSize: [9, 9],
       numMines: 10,
-    }
+    },
   };
 
   // "Static Constants"
