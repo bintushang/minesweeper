@@ -32,15 +32,7 @@ jQuery(function ($) {
     beginner: {
       boardSize: [9, 9],
       numMines: 10,
-    },
-    intermediate: {
-      boardSize: [16, 16],
-      numMines: 40,
-    },
-    expert: {
-      boardSize: [30, 16],
-      numMines: 99,
-    },
+    }
   };
 
   // "Static Constants"
